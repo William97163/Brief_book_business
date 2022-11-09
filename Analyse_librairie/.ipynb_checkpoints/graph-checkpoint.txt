@@ -1,0 +1,9 @@
+idée de graphes interressants
+
+Quelle est l'heure ou les ventes sont plus réussi (histogramme) OK
+le client ayant le plus vendu et le moins vendu (diagramme baton) au total
+le nombre de ventes des femmes vs hommes OK
+fréquence d'achat par mois 
+catégories des produit achetés 
+nb_vente par année 
+prix par catég
